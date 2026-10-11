@@ -1,4 +1,4 @@
-# CyberTrap-AI 🕸️🤖
+# CyberTrap-AI
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Ollama](https://img.shields.io/badge/Local_AI-Ollama-orange)
